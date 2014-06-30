@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
+	<meta charset="utf-8"/>
   <title>First Assignment for CSCIE-15 class</title>
 
   <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
 
 <!-- Optional theme -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
@@ -18,10 +18,10 @@
     <div class="container theme-showcase" role="main">
   	
   	<div class="row" align="center">
-  		<h1>Sukh Sodhi - Assignment 1<h1>
+  		<h1>Sukh Sodhi - Assignment 1</h1>
         <div class="col-sm-12" >
-		  	<img src="images/sukhsodhi.jpg" />
-		  	<p/>
+		  	<img src="images/sukhsodhi.jpg" alt="my picture" />
+		  	<p></p>
 		 </div>
 	</div>
 
